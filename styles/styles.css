@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+}
+
+.container{
+	width: 980px;
+	margin: auto;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.header{
+	height: 600px;
+	background-color: #d3d3d3;
+	padding-top: 30px;
+	background-image: url("../images/header_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header h1{
+	color: white;
+}
+
+.centered{
+	text-align: center;
+}
+
+.top-margin{
+	margin-top: 100px;
+}
+
+.get-it-now-button{
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: yellow;
+	font-size: 24px;
+	border-radius: 10px;
+	border: none;
+}
+
+.benefits{
+	height: 400px;
+	background: #d3d3d3;
+}
+
+.benefits h2{
+	color: blue;
+	padding-top: 75px;
+	margin: 0;
+	font-size: 36px;
+}
+
+.benefits p, ul{
+	font-size: 20px;
+}
+
+.testimonials{
+	height: 300px;
+	background-image: url("../images/testimonial_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.testimonials p{
+	color: white;
+	font-size: 36px;
+}
+
+.quote{
+	margin: 0;
+	padding-top: 50px;
+	font-style: italic;
+}
